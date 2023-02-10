@@ -1,4 +1,4 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D5616AQFToW2EIuFvxw/profile-displaybackgroundimage-shrink_350_1400/0/1669955579750?e=1680134400&v=beta&t=BYyKIVrTbMBGyblIKzoixFV64nelG7MryZqIaMFTgtY" height="175px"/></a> -->
+![logo](https://github.com/Chandrakant92/Chandrakant92/blob/main/Banner.webp)
 
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Chandrakant Gawali</h1>
 <h3 align="center"> CSE Student || Aspiring Java Developer || Passionate Full Stack Developer || Next.js || Node.js </h3>
